@@ -1,0 +1,6 @@
+$ git checkout -- .
+$ git remote add origin https://github.com/open386/git_test.git
+$ git remote     체크해보는것
+$ git branch -M main
+$ git branch      체크해보는것
+$ git push -u origin main
